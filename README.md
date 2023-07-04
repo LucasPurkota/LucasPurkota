@@ -1,4 +1,4 @@
-### Ola!!! Eu sou o Lucas Purkota 👋
+### Ola!!! Eu sou o Lucas Purkota
 
 <div style="display: inline_block">
   <img aling="center" alt="Lucas-C" height="30" width="40" 
