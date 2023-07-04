@@ -1,5 +1,9 @@
 ### Ola!!! Eu sou o Lucas Purkota 👋
 
+<div style="display: inline_block">
+  <img aling="center" alt="Lucas-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img aling="center" alt="Lucas-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+</div>
 <!--
 **LucasPurkota/LucasPurkota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
