@@ -21,6 +21,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-o
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img aling="center" alt="Lucas-MySQL" height="30" width="40" 
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" alt ="Lucas-Angular" height="30" width="40"/>
 </div>
 
 ##
