@@ -1,4 +1,4 @@
-## Hello World!!! Eu sou o Lucas Purkota
+## Hello World!!! Me Lucas Daniel Purkota e sou estudande de Engenharia de Software
 
 <div align="center">
   <a href="https://github.com/LucasPurkota">
