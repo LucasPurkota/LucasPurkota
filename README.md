@@ -22,6 +22,9 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/
   <img aling="center" alt="Lucas-MySQL" height="30" width="40" 
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" alt ="Lucas-Angular" height="30" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt ="Lucas-Next" height="30" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt ="Lucas-React" height="30" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" alt ="Lucas-Go" height="30" width="40"/>
 </div>
 
 ##
