@@ -1,4 +1,4 @@
-## Hello World!!! Me Lucas Daniel Purkota e sou estudande de Engenharia de Software
+## Hello World!!! Me chamo Lucas Daniel Purkota, sou estudande de Engenharia de Software e Desenvolverdor BackEnd
 
 <div align="center">
   <a href="https://github.com/LucasPurkota">
